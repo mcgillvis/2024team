@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/mcgillvis/static/css/main.bbbf4dca.css",
+    "main.js": "/mcgillvis/static/js/main.29e6f9b0.js",
+    "static/js/787.dd4029b4.chunk.js": "/mcgillvis/static/js/787.dd4029b4.chunk.js",
+    "static/media/wing-headshot.jpeg": "/mcgillvis/static/media/wing-headshot.55730e99a2fcddd7ee81.jpeg",
+    "static/media/eric-headshot.jpeg": "/mcgillvis/static/media/eric-headshot.7ccc52742b4c7038a17b.jpeg",
+    "static/media/eva-headshot.jpeg": "/mcgillvis/static/media/eva-headshot.9f159cfa10ea184d9156.jpeg",
+    "static/media/laura-headshot.jpeg": "/mcgillvis/static/media/laura-headshot.338e4ef234f9a8ec37eb.jpeg",
+    "static/media/dina-headshot.jpeg": "/mcgillvis/static/media/dina-headshot.2df79a66b55fe6b36c2a.jpeg",
+    "static/media/somaya-headshot.jpeg": "/mcgillvis/static/media/somaya-headshot.701b4e83ad762ebb089f.jpeg",
+    "static/media/linkedin-icon.svg": "/mcgillvis/static/media/linkedin-icon.11a0f32a767632b4b467dec403cb4d82.svg",
+    "index.html": "/mcgillvis/index.html",
+    "static/media/maple.svg": "/mcgillvis/static/media/maple.04963a2c53cdd9fbd1f9a21b1daba313.svg",
+    "static/media/email-icon (4).svg": "/mcgillvis/static/media/email-icon (4).01438a545dc11aa213ec8f09475e967b.svg",
+    "main.bbbf4dca.css.map": "/mcgillvis/static/css/main.bbbf4dca.css.map",
+    "main.29e6f9b0.js.map": "/mcgillvis/static/js/main.29e6f9b0.js.map",
+    "787.dd4029b4.chunk.js.map": "/mcgillvis/static/js/787.dd4029b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbbf4dca.css",
+    "static/js/main.29e6f9b0.js"
+  ]
+}
