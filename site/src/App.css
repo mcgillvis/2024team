@@ -10,9 +10,17 @@ body {
   /* line-height: 35px; */
 }
 
+a {
+  margin: 0;
+  padding: 0;
+}
+
 .content-wrap {
-  margin: 6rem 0 0 0;
+  margin: 7rem 0 0 0;
   padding: 0 1rem 0 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 #header-wrap {
@@ -34,7 +42,7 @@ body {
 }
 
 #header-icon {
-  width: 5%;
+  width: 2%;
   margin: 0 .5rem 0 0;
 }
 
@@ -60,19 +68,19 @@ body {
 .section-header {
   font-size: 1.35rem;
   font-weight: 500;
-  margin: 0 0 1.75rem 0;
+  margin: 0 0 2.25rem 0;
+  text-align: center;
 }
 
 .gallery-wrap {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
 }
 
 .gallery-row {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
-  padding: 0 .5rem 0 .5rem;
+  justify-content: flex-start;
   margin: 0 0 3rem 0;
 }
 
@@ -80,26 +88,41 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin: 0 5rem 0 0;
+}
+
+.profile-flex-last {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0;
 }
 
 .headshot {
   border-radius: 50%;
-  width: 150px;
+  width: 170px;
   margin: 0 0 .75rem 0;
 }
 
 .profile-name {
   font-weight: 500;
-  margin: 0 0 .25rem 0;
+  margin: 0 0 .5rem 0;
 }
 
 .profile-subheader {
   font-size: .9rem;
   font-style: italic;
-  margin: 0 0 .25rem 0;
+  margin: 0 0 .5rem 0;
 }
 
 .contact-wrap {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.icons-wrap {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -111,10 +134,85 @@ body {
 }
 
 .linkedin-icon {
-  width: 20%;
-  margin: 0 0 0 .75rem;
+  width: 65%;
+  margin: 0 0 0 1.15rem;
+  padding: 0;
 }
 
 .email-icon {
-  width: 22%;
+  width: 158%;
+  padding: 0;
+}
+
+.text-spacer-l {
+  margin-left: .25rem;
+}
+
+.text-spacer-r {
+  margin-right: .25rem;
+}
+
+.sponsors-flex {
+  display: flex;
+  flex-direction: row;
+  margin: 0;
+  padding: 0;
+  height: 5rem;
+}
+
+#contact-team-link {
+  font-weight: 500;
+  color: #464646;
+}
+
+@media only screen and (max-width: 800px) {
+  .content-wrap {
+    display: block;
+    padding: 0 1rem 0 1rem;
+  }
+
+  #header-icon {
+    width: 5%;
+  }
+
+  .section-header {
+    margin: 0 0 1.75rem 0;
+    text-align: left;
+  }
+
+  .gallery-wrap {
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .gallery-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0 .5rem 0 .5rem;
+  }
+
+  .profile-flex {
+    margin: 0;
+  }
+
+  .profile-flex-last {
+    margin: 0;
+  }
+
+  .profile-name {
+    margin: 0 0 .25rem 0;
+  }
+
+  .profile-subheader {
+    margin: 0 0 .25rem 0;
+  }
+
+  .headshot {
+    width: 150px;
+  }
+
+  .sponsors-flex {
+    height: 5rem;
+  }
 }
