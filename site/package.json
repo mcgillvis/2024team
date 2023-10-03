@@ -1,6 +1,6 @@
 {
   "name": "site",
-  "homepage": "https://syzhao53.github.io/mcgillvis",
+  "homepage": "https://mcgillvis.github.io/2024team",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -39,6 +39,7 @@
     ]
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "gh-pages": "^6.0.0"
   }
 }
