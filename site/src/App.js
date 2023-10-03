@@ -15,7 +15,7 @@ import email from './assets/email-icon (4).svg';
 
 function App() {
   useEffect(() => {
-    document.title = 'McGill team';
+    document.title = 'McGill 2024 team';
   }, []);
 
   return (
