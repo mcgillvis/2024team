@@ -59,7 +59,7 @@ function App() {
                 <div className="profile-name">Wing Wong</div>
                 <div className="profile-subheader">BCL/JD Candidate</div>
                 <div className="contact-wrap">
-                  <a href="mailto:wing.wong@mail.mcgill.ca">
+                  <a href="mailto:wing.wong2@mail.mcgill.ca">
                     <img className="email-icon" src={email} alt="email icon" />
                   </a>
                   <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/wing-w-061851128/">
@@ -120,7 +120,7 @@ function App() {
           <div className="section-header">Thank you to our sponsors</div>
           <div className="sponsors-flex">
             <div className="text-spacer-r">Coming soon!</div>
-            <a id="contact-team-link" href="mailto:somaya.amiri@mail.mcgill.ca,laura.andrade2@mail.mcgill.ca,eva.wu@mail.mcgill.ca,wing.wong@mail.mcgill.ca">
+            <a id="contact-team-link" href="mailto:somaya.amiri@mail.mcgill.ca,laura.andrade2@mail.mcgill.ca,eva.wu@mail.mcgill.ca,wing.wong2@mail.mcgill.ca">
               Contact our team
             </a>
             <div className="text-spacer-l">to sponsor us.</div>
