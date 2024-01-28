@@ -1,24 +1,26 @@
 {
   "files": {
-    "main.css": "/2024team/static/css/main.3ae916ea.css",
-    "main.js": "/2024team/static/js/main.4bcdad15.js",
+    "main.css": "/2024team/static/css/main.278825c0.css",
+    "main.js": "/2024team/static/js/main.0f79023f.js",
     "static/js/787.dd4029b4.chunk.js": "/2024team/static/js/787.dd4029b4.chunk.js",
     "static/media/wing-headshot.jpeg": "/2024team/static/media/wing-headshot.55730e99a2fcddd7ee81.jpeg",
     "static/media/eric-headshot.jpeg": "/2024team/static/media/eric-headshot.7ccc52742b4c7038a17b.jpeg",
     "static/media/eva-headshot.jpeg": "/2024team/static/media/eva-headshot.9f159cfa10ea184d9156.jpeg",
     "static/media/laura-headshot.jpeg": "/2024team/static/media/laura-headshot.338e4ef234f9a8ec37eb.jpeg",
+    "static/media/efat-headshot.jpeg": "/2024team/static/media/efat-headshot.b100d131d9f0c784d183.jpeg",
     "static/media/dina-headshot.jpeg": "/2024team/static/media/dina-headshot.2df79a66b55fe6b36c2a.jpeg",
     "static/media/somaya-headshot.jpeg": "/2024team/static/media/somaya-headshot.701b4e83ad762ebb089f.jpeg",
+    "static/media/whatsapp-icon.svg": "/2024team/static/media/whatsapp-icon.951e9d0f557aa43b2a6e915f51a1719a.svg",
     "index.html": "/2024team/index.html",
     "static/media/linkedin-icon.svg": "/2024team/static/media/linkedin-icon.e0ba3134dea350eadbf8f7f9e909d954.svg",
     "static/media/maple.svg": "/2024team/static/media/maple.04963a2c53cdd9fbd1f9a21b1daba313.svg",
     "static/media/email-icon (4).svg": "/2024team/static/media/email-icon (4).01438a545dc11aa213ec8f09475e967b.svg",
-    "main.3ae916ea.css.map": "/2024team/static/css/main.3ae916ea.css.map",
-    "main.4bcdad15.js.map": "/2024team/static/js/main.4bcdad15.js.map",
+    "main.278825c0.css.map": "/2024team/static/css/main.278825c0.css.map",
+    "main.0f79023f.js.map": "/2024team/static/js/main.0f79023f.js.map",
     "787.dd4029b4.chunk.js.map": "/2024team/static/js/787.dd4029b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ae916ea.css",
-    "static/js/main.4bcdad15.js"
+    "static/css/main.278825c0.css",
+    "static/js/main.0f79023f.js"
   ]
 }
